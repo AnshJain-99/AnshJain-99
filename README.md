@@ -13,7 +13,7 @@ DSA, and AI/ML skills.
 ## 🧩 Tech I Work With
 
 **Languages**
-Python · SQL · JavaScript
+Python · SQL · JavaScript (Basics)
 
 **Backend & Web**
 Flask · REST APIs · JSON
@@ -29,7 +29,7 @@ DSA · OOP · DBMS
 
 ---
 
-## 🚀 Selected Work
+## 🚀 Featured Projects
 
 ### 📈 GetStockIQ
 
