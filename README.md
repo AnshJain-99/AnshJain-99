@@ -1,6 +1,6 @@
 # Hey, I'm Ansh Jain 👋
 
-### Aspiring Software Developer · Python · Backend · AI/ML
+### Aspiring Software Developer | Python | Backend | AI/ML
 
 I like building practical software, experimenting with AI, and learning by working on real projects.
 
