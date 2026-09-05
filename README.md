@@ -180,10 +180,3 @@ worked with prompt-based workflows.
 
 ---
 
-# 🧭 Currently Learning
-
-```text
-Python              ████████████████████
-Backend Development █████████████████░░░
-DSA                 ███████████████░░░░░
-AI / ML             ██████████████░░░░░░
