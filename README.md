@@ -1,8 +1,8 @@
 # Ansh Jain
 
-### Software Developer · Python · Backend · AI/ML
+### `Software Developer` · `Python` · `Backend` · `AI/ML`
 
-I build practical software and explore AI through real-world projects.
+> Building practical software. Exploring AI. Learning by building.
 
 [LinkedIn](https://linkedin.com/in/anshjain21) ·
 [Portfolio](https://anshjain-portfolio.vercel.app) ·
@@ -10,162 +10,130 @@ I build practical software and explore AI through real-world projects.
 
 ---
 
-## About
+## ◈ About Me
 
-I'm a Software Developer with a focus on **Python, backend development,
-AI/ML and problem solving**.
+> **Software Developer focused on Python, Backend & AI/ML**
 
-I enjoy building applications that solve practical problems, while
-continuously improving my understanding of software development and
-computer-science fundamentals.
+I build practical applications and enjoy understanding how things work
+behind the scenes.
 
-**Currently focused on**
+My current focus is on **backend development, APIs, databases, DSA,
+OOP and AI/ML**, while continuously improving through real-world
+projects.
 
-- Building backend applications with Python and Flask
-- Working with APIs, databases and real-time data
-- Exploring AI/ML and AI-powered applications
-- Strengthening DSA, OOP and DBMS fundamentals
-
-> Learn. Build. Understand. Improve.
+`LEARN` → `BUILD` → `UNDERSTAND` → `IMPROVE`
 
 ---
 
-## Tech Stack
+## ◈ Technology
 
-### Languages
-`Python` `SQL` `JavaScript`
+| **◈ Languages** | **◈ Backend** |
+|---|---|
+| `Python` | `Flask` |
+| `SQL` | `REST APIs` |
+| `JavaScript` | `SQLAlchemy` |
+| | `JSON` |
 
-### Backend
-`Flask` `REST APIs` `JSON` `SQLAlchemy`
+| **◈ AI / ML** | **◈ Data & Database** |
+|---|---|
+| `Machine Learning` | `Pandas` |
+| `OpenCV` | `yfinance` |
+| `YOLOv5` | `MySQL` |
+| `Prompt Engineering` | `SQLite` |
 
-### AI / ML
-`Machine Learning` `OpenCV` `YOLOv5` `Prompt Engineering`
-
-### Data & Finance
-`Pandas` `yfinance`
-
-### Databases
-`MySQL` `SQLite`
-
-### Tools
-`Git` `GitHub` `VS Code`
+**Core:** `DSA` `OOP` `DBMS`  
+**Tools:** `Git` `GitHub` `VS Code`
 
 ---
 
-## Featured Projects
+## ◈ Featured Work
 
-### 01 · GetStockIQ
+### `01` — GetStockIQ
 
-**AI-powered stock analysis and portfolio platform**
+**AI-powered stock analysis & portfolio platform**
 
-A full-stack application for analysing Indian equities using
+A full-stack platform for analysing Indian equities through
 quantitative scoring, live market data, portfolio management and
 AI-powered insights.
 
-**Tech Stack**
+**Stack**
 
 `Python` `Flask` `SQLAlchemy` `JavaScript` `yfinance` `OpenRouter AI`
 
-**What I built**
+**Features**
 
 - 7-Pillar Quantitative Scoring Engine
-- Live NSE/BSE market data
-- Two-tier data caching
-- Portfolio management
-- Stock comparison
+- Live NSE/BSE Market Data
+- Two-Tier Data Caching
+- Portfolio Management
+- Stock Comparison
 - AI Investment Assistant
-- Secure authentication
+- Secure Authentication
 
-[View Repository →](https://github.com/AnshJain-99/GetStockIQ)
+**[View Project ↗](https://github.com/AnshJain-99/GetStockIQ)**
 
 ---
 
-### 02 · Real-Time Object Detection
+### `02` — Real-Time Object Detection
 
-**Real-time object detection using YOLOv5**
+**Computer vision system powered by YOLOv5**
 
-A computer-vision application that detects and classifies multiple
-objects from live video streams.
+Detects and classifies multiple objects from live video streams.
 
-**Tech Stack**
+**Stack**
 
 `Python` `YOLOv5`
 
-**What I built**
+**Features**
 
 - Real-time video processing
 - Multi-object detection
 - Object classification
 
-[View Repository →](https://github.com/AnshJain-99/Real-Time-Object-Detection-YOLOv5)
+**[View Project ↗](https://github.com/AnshJain-99/Real-Time-Object-Detection-YOLOv5)**
 
 ---
 
-### 03 · Face Detection System
+### `03` — Face Detection System
 
 **Real-time face detection using OpenCV**
 
 A lightweight computer-vision application for detecting multiple faces
 through a webcam using Haar Cascade classifiers.
 
-**Tech Stack**
+**Stack**
 
 `Python` `OpenCV`
 
-**What I built**
+**Features**
 
-- Webcam-based face detection
+- Webcam-based detection
 - Multiple face detection
 - Real-time processing
 - Haar Cascade classifier
 
-[View Repository →](https://github.com/AnshJain-99/face-detection-system)
+**[View Project ↗](https://github.com/AnshJain-99/face-detection-system)**
 
 ---
 
-## Experience
+## ◈ Experience
 
-**Python Programming Intern — InternPe**  
-*Oct 2024 – Nov 2024*
+**Python Programming Intern**  
+`InternPe` · Oct 2024 – Nov 2024
 
-Worked on Python applications, automation scripts and programming
-tasks while developing debugging and problem-solving skills.
+Python applications · Automation scripts · Debugging · Programming
 
-**Prompt Engineering Intern — Excelerate**  
-*Sep 2025 – Oct 2025*
+**Prompt Engineering Intern**  
+`Excelerate` · Sep 2025 – Oct 2025
 
-Created and tested AI prompts for research-driven use cases and
-worked with prompt-based workflows.
+AI prompt creation · Prompt testing · Research-driven workflows
 
 ---
 
-## What I'm Learning
+## ◈ Currently Building
 
-`Backend Development` · `DSA` · `AI/ML` · `Python`
-
-Currently focused on writing cleaner code, strengthening my
-fundamentals and building better real-world applications.
-
----
-
-## Education
-
-**Bachelor of Computer Applications (BCA)**  
-ITM University, Gwalior · 2022 – 2025
-
----
-
-## Connect
-
-If you're interested in software development, AI/ML or building
-practical projects, feel free to connect.
-
-**LinkedIn** → [Ansh Jain](https://linkedin.com/in/anshjain21)
-
-**Portfolio** → [anshjain-portfolio.vercel.app](https://anshjain-portfolio.vercel.app)
-
-**Email** → [anshj7068@gmail.com](mailto:anshj7068@gmail.com)
-
----
-
-*Build things. Understand them. Make them better.*
+```text
+Python              ████████████████████
+Backend             █████████████████░░░
+DSA                 ███████████████░░░░░
+AI / ML             ██████████████░░░░░░
