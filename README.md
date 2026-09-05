@@ -24,30 +24,27 @@ behind the scenes.
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
-**Languages**
+**Languages**  
+`Python` `SQL` `JavaScript`
 
-`Python` `SQL` `JavaScript (Basics)`
+**Backend**  
+`Flask` `REST APIs` `JSON` `SQLAlchemy`
 
-**Backend & Web**
-
-`Flask` `REST APIs` `JSON`
-
-**AI / ML**
-
+**AI / ML**  
 `Machine Learning` `OpenCV` `YOLOv5` `Prompt Engineering`
 
-**Databases**
+**Data & Finance**  
+`Pandas` `yfinance`
 
+**Databases**  
 `MySQL` `SQLite`
 
-**Core CS**
+**Core CS**  
+`DSA` `OOP` `DBMS`
 
-`Data Structures & Algorithms` `OOP` `DBMS`
-
-**Tools**
-
+**Developer Tools**  
 `Git` `GitHub` `VS Code`
 
 ---
