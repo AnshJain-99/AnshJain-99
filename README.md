@@ -7,20 +7,47 @@ turning ideas into working projects.
 
 ---
 
-## About Me
+## 🧊 About Me
 
-I'm an aspiring software developer with a strong interest in **Python,
-backend development, AI/ML, and problem solving**.
+> **Software Developer · Python · Backend · AI/ML**
 
-I like learning by building projects and understanding how things work
-behind the scenes.
+I build practical software projects with **Python**, explore **backend
+development and AI/ML**, and learn by turning ideas into working
+applications.
 
-- 🎓 BCA Graduate
-- 🐍 Mainly working with Python
-- ⚙️ Interested in backend and API development
-- 🤖 Exploring AI/ML and AI-powered applications
-- 🧠 Improving my DSA, OOP and DBMS fundamentals
-- 🚀 Learning through real-world projects
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 What I Work With
+
+- Python & SQL
+- Flask & REST APIs
+- AI / ML applications
+- Databases & backend systems
+- DSA, OOP & DBMS
+
+</td>
+<td width="50%">
+
+### 🚀 What I'm Building
+
+- AI-powered applications
+- Data-driven projects
+- Backend systems & APIs
+- Real-world automation
+- Continuously improving my problem-solving skills
+
+</td>
+</tr>
+</table>
+
+### 🎯 My Approach
+
+**Learn → Build → Break → Understand → Improve**
+
+I believe the best way to learn technology is to **build things,
+understand how they work, and keep improving them.**
 
 ---
 
