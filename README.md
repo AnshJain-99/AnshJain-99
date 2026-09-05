@@ -1,77 +1,105 @@
-# Hey, I'm Ansh Jain 👋
+<div align="center">
 
-### Aspiring Software Developer · Python · Backend · AI/ML
+# ANSH JAIN
 
-I enjoy building practical software, exploring AI, and learning by
-turning ideas into working projects.
+### Software Developer · Python · Backend · AI/ML
+
+Building practical software.  
+Exploring intelligent systems.  
+Learning by building.
+
+</div>
 
 ---
 
-## ◢ ABOUT ME
+## ABOUT
+
+<table>
+<tr>
+<td width="60%">
+
+I'm a Software Developer focused on **Python, backend development,
+AI/ML and problem solving**.
+
+I enjoy taking an idea, understanding the problem behind it, and
+turning it into a working application.
+
+Currently, I'm strengthening my foundations in **DSA, OOP, DBMS,
+backend development and AI/ML** while building real-world projects.
+
+</td>
+
+<td width="40%">
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   ANSH JAIN                                                   │
-│   Software Developer                                         │
-│                                                              │
-│   Python  ·  Backend  ·  AI/ML  ·  Problem Solving           │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-I build practical software with Python, work with backend
-technologies and explore AI/ML through real-world projects.
+WHAT I DO
 
-My approach is simple:
+▸ Build
+▸ Learn
+▸ Experiment
+▸ Improve
 
-LEARN ──→ BUILD ──→ UNDERSTAND ──→ IMPROVE
+FOCUS
 
-Currently focused on improving my backend development, programming
-fundamentals, DSA and AI/ML skills through hands-on projects.
----
+Python
+Backend
+AI / ML
+Problem Solving
+</td> </tr> </table>
+TECHNOLOGY
+<table> <tr> <td width="25%" align="center">
+LANGUAGES
 
-┌──────────────────────┐
-│  01  LANGUAGES       │
-└──────────────────────┘
-  Python  ·  SQL  ·  JavaScript
+Python
 
-┌──────────────────────┐
-│  02  BACKEND         │
-└──────────────────────┘
-  Flask  ·  REST APIs  ·  JSON  ·  SQLAlchemy
+SQL
 
-┌──────────────────────┐
-│  03  AI / ML         │
-└──────────────────────┘
-  Machine Learning  ·  OpenCV  ·  YOLOv5  ·  Prompt Engineering
+JavaScript
 
-┌──────────────────────┐
-│  04  DATA & FINANCE  │
-└──────────────────────┘
-  Pandas  ·  yfinance
+</td> <td width="25%" align="center">
+BACKEND
 
-┌──────────────────────┐
-│  05  DATABASES       │
-└──────────────────────┘
-  MySQL  ·  SQLite
+Flask
 
-┌──────────────────────┐
-│  06  CORE CS         │
-└──────────────────────┘
-  DSA  ·  OOP  ·  DBMS
+REST APIs
 
-┌──────────────────────┐
-│  07  TOOLS           │
-└──────────────────────┘
-  Git  ·  GitHub  ·  VS Code
+JSON
 
----
+SQLAlchemy
 
-◢ FEATURED PROJECTS
-╭─ 01 · GetStockIQ ─────────────────────────────╮
+</td> <td width="25%" align="center">
+AI / ML
+
+OpenCV
+
+YOLOv5
+
+Machine Learning
+
+Prompt Engineering
+
+</td> <td width="25%" align="center">
+DATA & DB
+
+Pandas
+
+yfinance
+
+MySQL
+
+SQLite
+
+</td> </tr> </table> <p align="center">
+
+DSA · OOP · DBMS · Git · GitHub · VS Code
+
+</p>
+SELECTED WORK
+GetStockIQ
 
 AI-powered stock analysis & portfolio platform
 
-A full-stack platform focused on analysing Indian equities using
+A full-stack platform designed for analysing Indian equities through
 quantitative scoring, live market data, portfolio management and
 AI-powered insights.
 
@@ -79,108 +107,97 @@ Built with
 
 Python Flask SQLAlchemy JavaScript yfinance OpenRouter AI
 
-Core Features
+Highlights
 
-→ 7-Pillar Quantitative Scoring Engine
-→ Live NSE/BSE Market Data
-→ Two-Tier Data Caching
-→ Portfolio Management
-→ Stock Comparison
-→ AI Investment Assistant
-→ Secure Authentication
+7-Pillar Quantitative Scoring Engine
+Live NSE/BSE Market Data
+Two-Tier Data Caching
+Portfolio Management
+Stock Comparison
+AI Investment Assistant
+Secure Authentication
 
-VIEW PROJECT →
+View Repository →
 
-╭─ 02 · Real-Time Object Detection ─────────────╮
+Real-Time Object Detection
 
-Real-time computer vision using YOLOv5
+Computer vision with YOLOv5
 
-A Python-based object detection system capable of detecting and
-classifying multiple objects from live video streams.
+A Python-based system for detecting and classifying multiple objects
+from live video streams.
 
 Built with
 
 Python YOLOv5
 
-Core Features
+Highlights
 
-→ Live Video Processing
-→ Multi-Object Detection
-→ Object Classification
-→ Real-Time Detection
+Real-time video processing
+Multi-object detection
+Object classification
 
-VIEW PROJECT →
+View Repository →
 
-╭─ 03 · Face Detection System ──────────────────╮
+Face Detection System
 
-Real-time face detection using OpenCV
+Real-time face detection with OpenCV
 
-A lightweight computer-vision application that detects multiple faces
-through a webcam using Haar Cascade classifiers.
+A lightweight computer-vision application capable of detecting
+multiple faces through a webcam using Haar Cascade classifiers.
 
 Built with
 
 Python OpenCV
 
-Core Features
+Highlights
 
-→ Webcam Detection
-→ Multiple Face Detection
-→ Real-Time Processing
-→ Haar Cascade Classifier
+Webcam-based detection
+Multiple face detection
+Real-time processing
+Haar Cascade classifier
 
-VIEW PROJECT →
----
+View Repository →
 
-## Experience
+EXPERIENCE
 
-### Python Programming Intern
-**InternPe · Oct 2024 – Nov 2024**
+Python Programming Intern
+InternPe · Oct 2024 – Nov 2024
 
-Worked on Python-based applications, automation scripts and
-programming tasks while improving problem-solving and debugging skills.
+Worked on Python applications, automation scripts and programming
+tasks while developing stronger debugging and problem-solving skills.
 
-### Prompt Engineering Intern
-**Excelerate · Sep 2025 – Oct 2025**
+Prompt Engineering Intern
+Excelerate · Sep 2025 – Oct 2025
 
-Worked on creating and testing AI prompts for research-driven use
-cases and improving prompt workflows.
+Created and tested AI prompts for research-driven use cases and
+worked with prompt-based workflows.
 
----
+CURRENT FOCUS
+Python              ███████████████████░
+Backend Development ████████████████░░░░
+DSA                 ██████████████░░░░░░
+AI / ML             █████████████░░░░░░░
 
-## Currently Learning
+Building better fundamentals.
+Writing cleaner code.
+Turning ideas into working software.
 
-`Python` · `Backend Development` · `DSA` · `AI/ML`
+EDUCATION
 
-Currently focused on writing cleaner code, understanding systems
-better, and building practical projects.
-
----
-
-## Education
-
-**Bachelor of Computer Applications (BCA)**  
+Bachelor of Computer Applications (BCA)
 ITM University, Gwalior · 2022 – 2025
 
----
+<div align="center">
+LET'S CONNECT
 
-## GitHub Activity
+LinkedIn
+  ·  
+Portfolio
+  ·  
+Email
 
-I use GitHub to document my projects, experiment with new ideas,
-and keep improving through consistent practice.
+<br>
 
----
+Build · Learn · Improve
 
-## Let's Connect
-
-**LinkedIn:** [Ansh Jain](https://linkedin.com/in/anshjain21)
-
-**Portfolio:** [anshjain-portfolio.vercel.app](https://anshjain-portfolio.vercel.app)
-
-**Email:** [anshj7068@gmail.com](mailto:anshj7068@gmail.com)
-
----
-
-<p align="center">
-  <b>Build · Learn · Improve</b>
-</p>
+</div> ```
