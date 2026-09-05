@@ -7,119 +7,129 @@ turning ideas into working projects.
 
 ---
 
-## 🧊 About Me
+## ◢ ABOUT ME
 
-> **Software Developer · Python · Backend · AI/ML**
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   ANSH JAIN                                                   │
+│   Software Developer                                         │
+│                                                              │
+│   Python  ·  Backend  ·  AI/ML  ·  Problem Solving           │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+I build practical software with Python, work with backend
+technologies and explore AI/ML through real-world projects.
 
-I build practical software projects with **Python**, explore **backend
-development and AI/ML**, and learn by turning ideas into working
-applications.
+My approach is simple:
 
-<table>
-<tr>
-<td width="50%">
+LEARN ──→ BUILD ──→ UNDERSTAND ──→ IMPROVE
 
-### 🧠 What I Work With
+Currently focused on improving my backend development, programming
+fundamentals, DSA and AI/ML skills through hands-on projects.
+---
 
-- Python & SQL
-- Flask & REST APIs
-- AI / ML applications
-- Databases & backend systems
-- DSA, OOP & DBMS
+┌──────────────────────┐
+│  01  LANGUAGES       │
+└──────────────────────┘
+  Python  ·  SQL  ·  JavaScript
 
-</td>
-<td width="50%">
+┌──────────────────────┐
+│  02  BACKEND         │
+└──────────────────────┘
+  Flask  ·  REST APIs  ·  JSON  ·  SQLAlchemy
 
-### 🚀 What I'm Building
+┌──────────────────────┐
+│  03  AI / ML         │
+└──────────────────────┘
+  Machine Learning  ·  OpenCV  ·  YOLOv5  ·  Prompt Engineering
 
-- AI-powered applications
-- Data-driven projects
-- Backend systems & APIs
-- Real-world automation
-- Continuously improving my problem-solving skills
+┌──────────────────────┐
+│  04  DATA & FINANCE  │
+└──────────────────────┘
+  Pandas  ·  yfinance
 
-</td>
-</tr>
-</table>
+┌──────────────────────┐
+│  05  DATABASES       │
+└──────────────────────┘
+  MySQL  ·  SQLite
 
-### 🎯 My Approach
+┌──────────────────────┐
+│  06  CORE CS         │
+└──────────────────────┘
+  DSA  ·  OOP  ·  DBMS
 
-**Learn → Build → Break → Understand → Improve**
-
-I believe the best way to learn technology is to **build things,
-understand how they work, and keep improving them.**
+┌──────────────────────┐
+│  07  TOOLS           │
+└──────────────────────┘
+  Git  ·  GitHub  ·  VS Code
 
 ---
 
-## ⚡ Tech Stack
+◢ FEATURED PROJECTS
+╭─ 01 · GetStockIQ ─────────────────────────────╮
 
-**Languages**  
-`Python` `SQL` `JavaScript`
+AI-powered stock analysis & portfolio platform
 
-**Backend**  
-`Flask` `REST APIs` `JSON` `SQLAlchemy`
+A full-stack platform focused on analysing Indian equities using
+quantitative scoring, live market data, portfolio management and
+AI-powered insights.
 
-**AI / ML**  
-`Machine Learning` `OpenCV` `YOLOv5` `Prompt Engineering`
+Built with
 
-**Data & Finance**  
-`Pandas` `yfinance`
+Python Flask SQLAlchemy JavaScript yfinance OpenRouter AI
 
-**Databases**  
-`MySQL` `SQLite`
+Core Features
 
-**Core CS**  
-`DSA` `OOP` `DBMS`
+→ 7-Pillar Quantitative Scoring Engine
+→ Live NSE/BSE Market Data
+→ Two-Tier Data Caching
+→ Portfolio Management
+→ Stock Comparison
+→ AI Investment Assistant
+→ Secure Authentication
 
-**Developer Tools**  
-`Git` `GitHub` `VS Code`
+VIEW PROJECT →
 
----
+╭─ 02 · Real-Time Object Detection ─────────────╮
 
-## Featured Projects
+Real-time computer vision using YOLOv5
 
-### 📈 GetStockIQ
+A Python-based object detection system capable of detecting and
+classifying multiple objects from live video streams.
 
-**AI-powered stock analysis and portfolio platform for Indian equities.**
+Built with
 
-Built a platform combining quantitative stock analysis, live market
-data, portfolio management and an AI-powered investment assistant.
+Python YOLOv5
 
-**Highlights**
+Core Features
 
-- 7-pillar quantitative stock scoring
-- Live NSE/BSE market data
-- Two-tier caching for faster API responses
-- Portfolio management and stock comparison
-- AI-powered investment assistant
-- Secure authentication with OAuth and OTP
+→ Live Video Processing
+→ Multi-Object Detection
+→ Object Classification
+→ Real-Time Detection
 
-`Python` `Flask` `SQLAlchemy` `JavaScript` `yfinance` `OpenRouter AI`
+VIEW PROJECT →
 
-**[View Project →](https://github.com/AnshJain-99/GetStockIQ)**
+╭─ 03 · Face Detection System ──────────────────╮
 
----
+Real-time face detection using OpenCV
 
-### 🎯 Real-Time Object Detection
+A lightweight computer-vision application that detects multiple faces
+through a webcam using Haar Cascade classifiers.
 
-A real-time object detection system built using **Python and YOLOv5**
-for detecting and classifying multiple objects from live video streams.
+Built with
 
-`Python` `YOLOv5`
+Python OpenCV
 
-**[View Project →](https://github.com/AnshJain-99/Real-Time-Object-Detection-YOLOv5)**
+Core Features
 
----
+→ Webcam Detection
+→ Multiple Face Detection
+→ Real-Time Processing
+→ Haar Cascade Classifier
 
-### 👤 Face Detection System
-
-A real-time webcam face detection application using **Python, OpenCV
-and Haar Cascade classifiers**.
-
-`Python` `OpenCV`
-
-**[View Project →](https://github.com/AnshJain-99/face-detection-system)**
-
+VIEW PROJECT →
 ---
 
 ## Experience
