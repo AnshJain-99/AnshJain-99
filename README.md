@@ -1,203 +1,178 @@
 <div align="center">
 
-# ANSH JAIN
+# Ansh Jain
 
 ### Software Developer · Python · Backend · AI/ML
 
-Building practical software.  
-Exploring intelligent systems.  
-Learning by building.
+Building practical software and learning by building real-world projects.
+
+[LinkedIn](https://linkedin.com/in/anshjain21) ·
+[Portfolio](https://anshjain-portfolio.vercel.app) ·
+[GitHub](https://github.com/AnshJain-99)
 
 </div>
 
 ---
 
-## ABOUT
-
-<table>
-<tr>
-<td width="60%">
+## About Me
 
 I'm a Software Developer focused on **Python, backend development,
 AI/ML and problem solving**.
 
-I enjoy taking an idea, understanding the problem behind it, and
-turning it into a working application.
+I enjoy taking ideas from concept to working applications and
+understanding how things work behind the scenes.
 
 Currently, I'm strengthening my foundations in **DSA, OOP, DBMS,
-backend development and AI/ML** while building real-world projects.
+backend development and AI/ML** while building practical projects.
 
-</td>
+> **Learn → Build → Understand → Improve**
 
-<td width="40%">
+---
 
-```text
-WHAT I DO
+## Tech Stack
 
-▸ Build
-▸ Learn
-▸ Experiment
-▸ Improve
+**Languages**
 
-FOCUS
+`Python` `SQL` `JavaScript`
 
-Python
-Backend
-AI / ML
-Problem Solving
-</td> </tr> </table>
-TECHNOLOGY
-<table> <tr> <td width="25%" align="center">
-LANGUAGES
+**Backend & APIs**
 
-Python
+`Flask` `REST APIs` `JSON` `SQLAlchemy`
 
-SQL
+**AI / Machine Learning**
 
-JavaScript
+`Machine Learning` `OpenCV` `YOLOv5` `Prompt Engineering`
 
-</td> <td width="25%" align="center">
-BACKEND
+**Data & Finance**
 
-Flask
+`Pandas` `yfinance`
 
-REST APIs
+**Databases**
 
-JSON
+`MySQL` `SQLite`
 
-SQLAlchemy
+**Core Computer Science**
 
-</td> <td width="25%" align="center">
-AI / ML
+`DSA` `OOP` `DBMS`
 
-OpenCV
+**Tools**
 
-YOLOv5
+`Git` `GitHub` `VS Code`
 
-Machine Learning
+---
 
-Prompt Engineering
+## Featured Projects
 
-</td> <td width="25%" align="center">
-DATA & DB
+### GetStockIQ
 
-Pandas
+**AI-powered stock analysis and portfolio platform**
 
-yfinance
-
-MySQL
-
-SQLite
-
-</td> </tr> </table> <p align="center">
-
-DSA · OOP · DBMS · Git · GitHub · VS Code
-
-</p>
-SELECTED WORK
-GetStockIQ
-
-AI-powered stock analysis & portfolio platform
-
-A full-stack platform designed for analysing Indian equities through
+A full-stack platform for analysing Indian equities through
 quantitative scoring, live market data, portfolio management and
 AI-powered insights.
 
-Built with
+**Tech:** `Python` `Flask` `SQLAlchemy` `JavaScript` `yfinance` `OpenRouter AI`
 
-Python Flask SQLAlchemy JavaScript yfinance OpenRouter AI
+**Highlights**
 
-Highlights
+- 7-Pillar Quantitative Scoring Engine
+- Live NSE/BSE market data
+- Two-tier data caching
+- Portfolio management
+- Stock comparison
+- AI Investment Assistant
+- Secure authentication
 
-7-Pillar Quantitative Scoring Engine
-Live NSE/BSE Market Data
-Two-Tier Data Caching
-Portfolio Management
-Stock Comparison
-AI Investment Assistant
-Secure Authentication
+**[View Repository →](https://github.com/AnshJain-99/GetStockIQ)**
 
-View Repository →
+---
 
-Real-Time Object Detection
+### Real-Time Object Detection
 
-Computer vision with YOLOv5
+**YOLOv5-based real-time computer vision system**
 
-A Python-based system for detecting and classifying multiple objects
+A Python application for detecting and classifying multiple objects
 from live video streams.
 
-Built with
+**Tech:** `Python` `YOLOv5`
 
-Python YOLOv5
+**Highlights**
 
-Highlights
+- Real-time video processing
+- Multi-object detection
+- Object classification
 
-Real-time video processing
-Multi-object detection
-Object classification
+**[View Repository →](https://github.com/AnshJain-99/Real-Time-Object-Detection-YOLOv5)**
 
-View Repository →
+---
 
-Face Detection System
+### Face Detection System
 
-Real-time face detection with OpenCV
+**Real-time face detection using OpenCV**
 
-A lightweight computer-vision application capable of detecting
-multiple faces through a webcam using Haar Cascade classifiers.
+A lightweight computer-vision application that detects multiple faces
+through a webcam using Haar Cascade classifiers.
 
-Built with
+**Tech:** `Python` `OpenCV`
 
-Python OpenCV
+**Highlights**
 
-Highlights
+- Webcam-based detection
+- Multiple face detection
+- Real-time processing
+- Haar Cascade classifier
 
-Webcam-based detection
-Multiple face detection
-Real-time processing
-Haar Cascade classifier
+**[View Repository →](https://github.com/AnshJain-99/face-detection-system)**
 
-View Repository →
+---
 
-EXPERIENCE
+## Experience
 
-Python Programming Intern
-InternPe · Oct 2024 – Nov 2024
+### Python Programming Intern · InternPe
+
+**Oct 2024 – Nov 2024**
 
 Worked on Python applications, automation scripts and programming
-tasks while developing stronger debugging and problem-solving skills.
+tasks while improving debugging and problem-solving skills.
 
-Prompt Engineering Intern
-Excelerate · Sep 2025 – Oct 2025
+### Prompt Engineering Intern · Excelerate
+
+**Sep 2025 – Oct 2025**
 
 Created and tested AI prompts for research-driven use cases and
 worked with prompt-based workflows.
 
-CURRENT FOCUS
-Python              ███████████████████░
-Backend Development ████████████████░░░░
-DSA                 ██████████████░░░░░░
-AI / ML             █████████████░░░░░░░
+---
 
-Building better fundamentals.
-Writing cleaner code.
-Turning ideas into working software.
+## Currently Learning
 
-EDUCATION
+`Python` · `Backend Development` · `DSA` · `AI/ML`
 
-Bachelor of Computer Applications (BCA)
+Focused on writing cleaner code, strengthening computer-science
+fundamentals and building practical applications.
+
+---
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**
+
 ITM University, Gwalior · 2022 – 2025
 
+---
+
+## Let's Connect
+
+**LinkedIn** → [linkedin.com/in/anshjain21](https://linkedin.com/in/anshjain21)
+
+**Portfolio** → [anshjain-portfolio.vercel.app](https://anshjain-portfolio.vercel.app)
+
+**Email** → [anshj7068@gmail.com](mailto:anshj7068@gmail.com)
+
+---
+
 <div align="center">
-LET'S CONNECT
 
-LinkedIn
-  ·  
-Portfolio
-  ·  
-Email
+**Build · Learn · Improve**
 
-<br>
-
-Build · Learn · Improve
-
-</div> ```
+</div>
